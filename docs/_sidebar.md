@@ -21,6 +21,7 @@
         - [29/10](pages/Aulas/Outubro/29.md)
         - [31/10](pages/Aulas/Outubro/31.md)
     - Setembro
+        - [11/11](pages/Aulas/Novembro/11.md)
 
 
 - Dúvidas
