@@ -34,24 +34,37 @@
             - [Motivo](pages/Entregas/Parte1.md#motivos-para-essa-escolha)
         - [Conclusão](pages/Entregas/Parte1.md#conclusão)
         - [Referências](pages/Entregas/Parte1.md#conclusão)
+    - [Parte 2](pages/Entregas/Parte2.md)
+        - [Agente de Soluções de Problemas](pages/Entregas/Parte2.md#agente-de-soluções-de-problemas)
+            - [Principais Elementos](pages/Entregas/Parte2.md#principais-elementos-de-um-agente-de-soluções-de-problemas)
+            - [Exemplos de Agentes](pages/Entregas/Parte2.md#exemplos-de-agentes-de-soluções-de-problemas)
+            - [Características](pages/Entregas/Parte2.md#características-de-um-agente-racional-aplicações-práticas)
+        - [Problemas Malha Aberta e Fechada](pages/Entregas/Parte2.md#problemas-de-malha-aberta-e-de-malha-fechada)
+            - [Malha Aberta](pages/Entregas/Parte2.md#problemas-de-malha-aberta)
+            - [Malha Fechada](pages/Entregas/Parte2.md#problemas-de-malha-fechada)
+            - [Comparação](pages/Entregas/Parte2.md#comparação-entre-malha-aberta-e-malha-fechada)
+            - [Vantagens](pages/Entregas/Parte2.md#vantagens-da-malha-fechada)
+            - [Quando Usar](pages/Entregas/Parte2.md#quando-usar-cada-tipo-de-sistema)
+        - [Algoritmos de Busca](pages/Entregas/Parte2.md#algoritmos-de-busca)
+            - [Busca Cega](pages/Entregas/Parte2.md#busca-cega)
+            - [Busca Informada](pages/Entregas/Parte2.md#busca-informada)
+            - [Comparação](pages/Entregas/Parte2.md#comparação-entre-busca-cega-e-busca-informada)
+        - [Funções Heurísticas](pages/Entregas/Parte2.md#funções-heurísticas)
+            - [Características](pages/Entregas/Parte2.md#características-de-uma-boa-heurística)
+            - [Impacto](pages/Entregas/Parte2.md#impacto-das-heurísticas-na-busca)
+        - [Busca em Ambientes Complexos](pages/Entregas/Parte2.md#busca-em-ambientes-complexos)
+            - [Características](pages/Entregas/Parte2.md#características-de-ambientes-complexos)
+            - [Abordagens](pages/Entregas/Parte2.md#abordagens-para-busca-em-ambientes-complexos)
+            - [Desafios e Soluções](pages/Entregas/Parte2.md#desafios-e-soluções)
+        - [Algoritmos Genéticos](pages/Entregas/Parte2.md#algoritmos-genéticos)
+            - [Como Funcionam](pages/Entregas/Parte2.md#como-funcionam-os-algoritmos-genéticos)
+            - [Aplicações](pages/Entregas/Parte2.md#aplicações-dos-algoritmos-genéticos)
+        - [Discussões](pages/Entregas/Parte2.md#discussão-sobre-algoritmos-de-procura-não-discutidos-em-sala)
+            - [Expansão do Uso](pages/Entregas/Parte2.md#expansão-do-uso-de-algoritmos-de-procura)
+            - [Opinião e Reflexão](pages/Entregas/Parte2.md#opinião-e-reflexão)
+
 
 ----------------------------------------------------
-
-### _**Nota das Aulas**_
-
-- Aulas
-    - Outubro
-        - [17/10](pages/Aulas/Outubro/17.md)
-        - [22/10](pages/Aulas/Outubro/22.md)
-        - [24/10](pages/Aulas/Outubro/24.md)
-        - [29/10](pages/Aulas/Outubro/29.md)
-        - [31/10](pages/Aulas/Outubro/31.md)
-    - Setembro
-        - [11/11](pages/Aulas/Novembro/11.md)
-
-
-- Dúvidas
-    - [Dúvidas e Respostas](pages/Dúvidas/template.md)
 
 
 
