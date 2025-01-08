@@ -91,8 +91,9 @@
         - [Opinião Pessoal](pages/Entregas/Parte3.md#opinião-pessoal-sobre-a-exploração-de-csps)
         - [Implementação](pages/Entregas/Parte3.md#implementação-de-um-algoritmo-csp-algoritmo-genético-para-resolver-o-sudoku)
     - [Parte 4](pages/Entregas/Parte4.md)
-
-
+        - [Agente](pages/Entregas/Parte4.md#agente-baseado-em-conhecimento)
+            - [Funcionamento](pages/Entregas/Parte4.md#funcionamento-dos-agentes-baseados-em-conhecimento)
+            - [Desafios](pages/Entregas/Parte4.md#desafios-e-limitações)
 
 
 ----------------------------------------------------
