@@ -90,6 +90,7 @@
         - [Discussão](pages/Entregas/Parte3.md#discussão-algoritmos-de-satisfação-de-restrições-não-discutidos-em-sala)
         - [Opinião Pessoal](pages/Entregas/Parte3.md#opinião-pessoal-sobre-a-exploração-de-csps)
         - [Implementação](pages/Entregas/Parte3.md#implementação-de-um-algoritmo-csp-algoritmo-genético-para-resolver-o-sudoku)
+    - [Parte 4](pages/Entregas/Parte4.md)
 
 
 
